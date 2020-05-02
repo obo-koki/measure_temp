@@ -1,4 +1,4 @@
-# Measure_temp
+# Send_temp_with_LINE
 Measure temperature and humid by dht11, and Send messages with LINE
 
 # DEMO
@@ -31,13 +31,6 @@ python demo.py
 注意点などがあれば書く
 
 # Author
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
+* obo-koki
 
 # License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
